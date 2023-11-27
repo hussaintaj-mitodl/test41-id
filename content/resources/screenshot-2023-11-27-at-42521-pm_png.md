@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test41-url/screenshot-2023-11-27-at-42521-pm.png
+file: /media/courses/test41-url-changed/screenshot-2023-11-27-at-42521-pm.png
 file_size: 42361
 file_type: image/png
 image_metadata:
