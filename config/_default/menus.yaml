@@ -1,0 +1,5 @@
+leftnav:
+- identifier: a52ff9df-460b-4e3c-9939-45b35db7b28b
+  name: page
+  pageRef: /pages/resource
+  weight: 10
